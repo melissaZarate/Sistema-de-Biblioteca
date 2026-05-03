@@ -1,0 +1,16 @@
+# Compilados
+*.class
+
+# Carpetas de build
+/build/
+/dist/
+
+# NetBeans
+/nbproject/private/
+/nbproject/build-impl.xml
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
